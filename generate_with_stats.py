@@ -125,9 +125,9 @@ skills = [
     ("\x1b[94mCloud:\x1b[0m       ", "AWS, GCP, OCI, Cloudflare"),
     ("\x1b[94mDevOps:\x1b[0m      ", "Terraform, Kubernetes, Docker, Git"),
     ("\x1b[94mCI/CD:\x1b[0m       ", "GitLab, GitHub Actions"),
-    ("\x1b[94mMonitoring:\x1b[0m  ", "Grafana, Prometheus, Jaeger, Loki"),
+    ("\x1b[94mMonitoring:\x1b[0m  ", "Grafana, Prometheus, Zabbix"),
     ("\x1b[94mTools:\x1b[0m       ", "Postman, RabbitMQ, MongoDB"),
-    ("\x1b[94mOS:\x1b[0m          ", "Linux, macOS, Windows"),
+    ("\x1b[94mOS:\x1b[0m          ", "Linux, Windows"),
     ("\x1b[94mLanguages:\x1b[0m   ", "Python"),
 ]
 
