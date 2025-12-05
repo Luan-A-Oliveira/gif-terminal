@@ -18,7 +18,7 @@ import requests
 # - Copy the token and add it to .env
 # ============================================
 
-USERNAME = "dbuzatto"  # <- Your GitHub username
+USERNAME = "Luan-A-Oliveira"  # <- Your GitHub username
 
 # Function to fetch real number of repos
 def get_total_repos(username):
